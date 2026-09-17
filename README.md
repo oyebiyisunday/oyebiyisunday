@@ -15,4 +15,4 @@ I build scalable data pipelines, model data for analytics, and govern master dat
 - Data governance, quality, and lineage
 
 ### Connect
-- LinkedIn: [linkedin.com/in/oyebiyisunday](https://www.linkedin.com/in/oyebiyisunday)
+- LinkedIn: [linkedin.com/in/oyebiyisunday](https://www.linkedin.com/in/sunday-oyebiyi/)
