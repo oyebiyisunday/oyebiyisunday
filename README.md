@@ -1,18 +1,38 @@
 # Sunday Oyebiyi
 **Data Engineer | Data Analyst | SAP MM & Master Data**
 
-I build scalable data pipelines, model data for analytics, and govern master data across ERP and cloud platforms. My GitHub is primarily private for client and proprietary work, but my contribution graph below reflects active development in data engineering, Python, and React.
+I design and build scalable data pipelines, model data for analytics, and support SAP MM master data governance across supply chain and manufacturing environments. Most of my GitHub work is private because it supports client and proprietary projects.
 
-### Core Technologies
-- **Data Engineering:** Python, PySpark, SQL, Databricks, Delta Lake, Medallion Architecture (Bronze/Silver/Gold), ETL/ELT
-- **Analytics & BI:** Power BI, Tableau, Advanced Excel
-- **ERP & Domain:** SAP MM, Master Data Management, Supply Chain
-- **Frontend:** React
+## Core Technologies
 
-### Current Focus
-- Full-stack data engineering (pipelines to React frontends)
-- SAP ERP data integration into Databricks lakehouse
-- Data governance, quality, and lineage
+### Data Engineering
+- Python
+- PySpark
+- SQL
+- PostgreSQL
+- MySQL
+- Databricks
+- Delta Lake
+- ETL/ELT
+- Medallion Architecture
 
-### Connect
-- LinkedIn: [linkedin.com/in/oyebiyisunday](https://www.linkedin.com/in/sunday-oyebiyi/)
+### Analytics & BI
+- Power BI
+- Excel
+- Reporting and KPI dashboards
+
+### ERP & Domain
+- SAP MM
+- Master Data Management
+- Supply Chain
+- Manufacturing Operations
+
+## Current Focus
+- SAP MM master data and process data integration
+- ERP and supply-chain data for reporting and business applications
+- Data quality, governance, and trusted datasets
+
+## Contact
+- Email: [oyebiyisunday@gmail.com](mailto:oyebiyisunday@gmail.com)
+- LinkedIn: [linkedin.com/in/sunday-oyebiyi](https://www.linkedin.com/in/sunday-oyebiyi/)
+- Location: Irvington, NJ 07111
