@@ -1,19 +1,40 @@
-Sunday Oyebiyi
-Data Engineer | Data Analyst | SAP MM & Master Data
+# Sunday Oyebiyi
+**Data Engineer | Data Analyst | SAP MM & Master Data**
 
-I model data for analytics and manage SAP MM master data for supply chain and manufacturing operations. My background also includes information systems and banking and financial operations. Most of this GitHub is private because the work is client-specific and proprietary. The contribution graph shows ongoing work in data engineering and Python.
+I design and build scalable data pipelines, model data for analytics, and support SAP MM master data governance across supply chain and manufacturing environments. I bring together data engineering, data quality, and business operations to enable trusted reporting and decision-making.
 
-Core Technologies
-Data Engineering: Python, PySpark, SQL, PostgreSQL, MySQL, Databricks, Delta Lake, ETL/ELT
-Analytics: Power BI, Excel
-ERP and domain: SAP MM, Master Data Management, Supply Chain, Manufacturing Operations, Banking and Financial Operations, Information Systems
+## Core Technologies
 
-Current Focus
-SAP MM master data for manufacturing operations
-ERP and supply-chain data for reporting and business applications
-Data quality and governed datasets
+### Data Engineering
+- Python
+- PySpark
+- SQL
+- PostgreSQL
+- MySQL
+- Databricks
+- Delta Lake
+- ETL/ELT
+- Medallion Architecture
 
-Location
-Irvington, NJ 07111
+### Analytics & BI
+- Power BI
+- Excel
+- Reporting and KPI dashboards
+- Data visualization
 
-Reach out on LinkedIn: linkedin.com/in/sunday-oyebiyi
+### ERP & Domain
+- SAP MM
+- Master Data Management
+- Supply Chain
+- Manufacturing Operations
+- Information Systems
+- Banking & Financial Operations
+
+## Current Focus
+- SAP MM master data and process data integration
+- ERP and supply-chain data for reporting and business applications
+- Data quality, governance, and trusted datasets
+
+## Contact
+- LinkedIn: [linkedin.com/in/sunday-oyebiyi](https://www.linkedin.com/in/sunday-oyebiyi/)
+- Location: Irvington, New Jersey, United States
