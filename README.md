@@ -33,6 +33,5 @@ I design and build scalable data pipelines, model data for analytics, and suppor
 - Data quality, governance, and trusted datasets
 
 ## Contact
-- Email: [oyebiyisunday@gmail.com](mailto:oyebiyisunday@gmail.com)
 - LinkedIn: [linkedin.com/in/sunday-oyebiyi](https://www.linkedin.com/in/sunday-oyebiyi/)
-- Location: Irvington, NJ 07111
+- Location: New Jersey, United States
