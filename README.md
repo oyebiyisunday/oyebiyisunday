@@ -28,7 +28,6 @@ I design and build scalable data pipelines, model data for analytics, and suppor
 - Supply Chain
 - Manufacturing Operations
 - Information Systems
-- Banking & Financial Operations
 
 ## Current Focus
 - SAP MM master data and process data integration
