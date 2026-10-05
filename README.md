@@ -24,6 +24,7 @@ From business requirements to engineering design, deployment, and adoption, I fo
 ## Core Domains
 
 - SAP MM & ERP Data
+- Banking and Financial Operations
 - Master Data Management
 - Supply Chain
 - Manufacturing Operations
