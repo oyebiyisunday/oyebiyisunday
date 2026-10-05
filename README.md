@@ -8,7 +8,7 @@ I bring together **Python, SQL, PySpark, Databricks, BI, and SAP MM** to design 
 
 ## Core Capabilities
 
-### Data Engineering & Platforms
+### Data Engineering & Platforms 
 
 * Python
 * PySpark
