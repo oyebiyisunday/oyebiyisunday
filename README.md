@@ -4,7 +4,7 @@
 
 I build **data products and production-ready data solutions** that turn complex operational and enterprise data into trusted, actionable systems. My work spans **data engineering, analytics, data quality, and business process integration**, with a focus on deploying solutions that support real-world decision-making and operations.
 
-I bring together **Python, SQL, PySpark, Databricks, BI, and SAP MM** to design scalable data pipelines, analytical datasets, dashboards, and business-facing data solutions across **supply chain and manufacturing environments**.
+I bring together **Python, SQL, PySpark, Databricks, BI, and SAP MM/ERP** to design scalable data pipelines, analytical datasets, dashboards, and business-facing data solutions across **supply chain and manufacturing environments**.
 
 ## Core Capabilities
 
