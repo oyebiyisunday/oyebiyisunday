@@ -2,76 +2,42 @@
 
 **Data & Solutions Engineer | Data Products | Data Engineering & Analytics**
 
-I build **data products and operational data solutions** that turn complex enterprise data into systems people can use to make decisions, improve processes, and run the business.
+I build **data products and data solutions** that turn enterprise and operational data into reliable systems for reporting, analytics, and business use.
 
-My work sits at the intersection of **data engineering, analytics, enterprise systems, and business operations**. I focus on taking a problem from **business need → data → solution → deployment → adoption**.
+My work connects **data engineering, analytics, enterprise systems, and business operations**, with experience across **SAP MM, master data, supply chain, and manufacturing**.
 
-My domain experience includes **SAP MM, master data, supply chain, and manufacturing**, where reliable data and well-designed solutions directly impact operational performance.
+## What I Do
 
-## What I Build
+* Build and maintain **data pipelines and analytical data models**
+* Develop **data products and solutions** for operational and business use cases
+* Integrate **ERP and operational data** for reporting and analytics
+* Develop **data quality and validation** processes for trusted datasets
+* Build **analytics and reporting solutions** that support business decisions
+* Take solutions from **requirements and data preparation through implementation and use**
 
-### Data Products
+## Domain
 
-I design data products that make trusted data accessible and useful to the people and systems that depend on it.
-
-* Analytical data products
-* Operational data products
-* Trusted datasets and data models
-* KPI and reporting products
-* Data products for business applications
-* Reusable data pipelines and services
-
-### Data Solutions
-
-I translate business and operational problems into scalable data solutions.
-
-* Enterprise and ERP data integration
-* Supply-chain and manufacturing data solutions
-* Data quality and validation workflows
-* Master data solutions
-* Reporting and analytics solutions
-* Data workflows that connect systems, processes, and decisions
-
-### Engineering & Analytics
-
-I work across the full data lifecycle:
-
-**Ingest → Transform → Model → Validate → Analyze → Deploy → Improve**
-
-This includes building reliable pipelines, analytical models, reporting layers, and production-oriented data workflows.
-
-### Forward Deployment
-
-I focus on getting solutions **closer to the people and processes they are designed to support**.
-
-That means understanding the operational problem, working with the underlying data and systems, developing the solution, and helping move it toward **production use and business adoption**.
-
-## Domain Experience
-
-* SAP MM & ERP
+* SAP MM & ERP Data
 * Master Data Management
 * Supply Chain
 * Manufacturing Operations
-* Enterprise Data
 * Business & Operational Analytics
 
 ## Technology
 
-**Data Engineering:** Python, PySpark, SQL, ETL/ELT, Data Pipelines, Data Modeling
+**Data Engineering:** Python · PySpark · SQL · ETL/ELT · Data Pipelines · Data Modeling
 
-**Data Platforms:** Databricks, Delta Lake, PostgreSQL, MySQL
+**Data Platforms:** Databricks · Delta Lake · PostgreSQL · MySQL
 
-**Analytics:** Power BI, Excel, KPI Reporting, Data Visualization
+**Analytics & BI:** Power BI · Excel · KPI Reporting · Data Visualization
 
-**Architecture:** Medallion Architecture, Data Integration, Data Quality, Data Governance
+**Data Architecture & Quality:** Medallion Architecture · Data Integration · Data Quality · Data Governance
 
-## How I Think About Data
+## Approach
 
 **Business Problem → Data → Engineering → Product → Deployment → Impact**
 
-The goal isn't simply to move data or create dashboards.
-
-The goal is to build **useful, reliable data solutions that become part of how people work and make decisions.**
+I focus on building **reliable, maintainable, and useful data solutions** that connect technical implementation with real business needs.
 
 ## Connect
 
