@@ -4,7 +4,7 @@ Data & Solutions Engineer | Data Products | Data Engineering, Analytics & Deploy
 
 I build data products and data solutions that transform enterprise and operational data into reliable systems for reporting, analytics, and business decision-making.
 
-My work sits at the intersection of data engineering, analytics, enterprise systems, and business operations, with experience across manufacturing, Supply chain, Banking and Financial Operations.
+My work sits at the intersection of data engineering, analytics, enterprise systems, and business operations, with experience across manufacturing, supply chain, banking, and financial operations.
 
 ## About Me
 
@@ -23,11 +23,9 @@ From business requirements to engineering design, deployment, and adoption, I fo
 
 ## Core Domains
 
-- SAP MM & ERP Data
-- Banking and Financial Operations
-- Master Data Management
-- Supply Chain
-- Manufacturing Operations
+- Enterprise, ERP & Master Data
+- Banking & Financial Operations
+- Supply Chain & Manufacturing
 - Business & Operational Analytics
 
 ## How I Work
