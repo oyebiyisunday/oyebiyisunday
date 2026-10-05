@@ -1,72 +1,79 @@
 # Sunday Oyebiyi
 
-**Data & Solutions Engineer | Data Products | Data Engineering & Analytics | SAP MM**
+**Data & Solutions Engineer | Data Products | Data Engineering & Analytics**
 
-I build **data products and production-ready data solutions** that turn complex operational and enterprise data into trusted, actionable systems. My work spans **data engineering, analytics, data quality, and business process integration**, with a focus on deploying solutions that support real-world decision-making and operations.
+I build **data products and operational data solutions** that turn complex enterprise data into systems people can use to make decisions, improve processes, and run the business.
 
-I bring together **Python, SQL, PySpark, Databricks, BI, and SAP MM/ERP** to design scalable data pipelines, analytical datasets, dashboards, and business-facing data solutions across **supply chain and manufacturing environments**.
+My work sits at the intersection of **data engineering, analytics, enterprise systems, and business operations**. I focus on taking a problem from **business need → data → solution → deployment → adoption**.
 
-## Core Capabilities
+My domain experience includes **SAP MM, master data, supply chain, and manufacturing**, where reliable data and well-designed solutions directly impact operational performance.
 
-### Data Engineering & Platforms 
+## What I Build
 
-* Python
-* PySpark
-* SQL
-* PostgreSQL
-* MySQL
-* Databricks
-* Delta Lake
-* ETL / ELT
-* Medallion Architecture
-* Data Pipelines
-* Data Modeling
+### Data Products
 
-### Data Products & Solutions
+I design data products that make trusted data accessible and useful to the people and systems that depend on it.
 
-* Data Product Development
-* Production-Ready Data Solutions
-* End-to-End Data Workflows
-* Data Integration
-* Trusted Data Products
-* Data Quality & Validation
-* Data Governance
-* Operational & Business Data Solutions
+* Analytical data products
+* Operational data products
+* Trusted datasets and data models
+* KPI and reporting products
+* Data products for business applications
+* Reusable data pipelines and services
 
-### Analytics & BI
+### Data Solutions
 
-* Power BI
-* Excel
-* KPI & Management Reporting
-* Analytical Data Modeling
-* Data Visualization
-* Business & Operational Analytics
+I translate business and operational problems into scalable data solutions.
 
-### ERP & Domain
+* Enterprise and ERP data integration
+* Supply-chain and manufacturing data solutions
+* Data quality and validation workflows
+* Master data solutions
+* Reporting and analytics solutions
+* Data workflows that connect systems, processes, and decisions
 
-* SAP MM
-* SAP Master Data
+### Engineering & Analytics
+
+I work across the full data lifecycle:
+
+**Ingest → Transform → Model → Validate → Analyze → Deploy → Improve**
+
+This includes building reliable pipelines, analytical models, reporting layers, and production-oriented data workflows.
+
+### Forward Deployment
+
+I focus on getting solutions **closer to the people and processes they are designed to support**.
+
+That means understanding the operational problem, working with the underlying data and systems, developing the solution, and helping move it toward **production use and business adoption**.
+
+## Domain Experience
+
+* SAP MM & ERP
 * Master Data Management
 * Supply Chain
 * Manufacturing Operations
-* ERP Data Integration
-* Information Systems
+* Enterprise Data
+* Business & Operational Analytics
 
-## Current Focus
+## Technology
 
-* Building **data products and scalable data solutions** for operational and business use cases
-* Integrating **SAP MM, ERP, and supply-chain data** into trusted analytical datasets
-* Developing data pipelines and platforms that support **reporting, analytics, and business applications**
-* Improving **data quality, governance, and master data processes**
-* Taking data solutions from **engineering and analytics through production deployment and operational adoption**
+**Data Engineering:** Python, PySpark, SQL, ETL/ELT, Data Pipelines, Data Modeling
 
-## Approach
+**Data Platforms:** Databricks, Delta Lake, PostgreSQL, MySQL
+
+**Analytics:** Power BI, Excel, KPI Reporting, Data Visualization
+
+**Architecture:** Medallion Architecture, Data Integration, Data Quality, Data Governance
+
+## How I Think About Data
 
 **Business Problem → Data → Engineering → Product → Deployment → Impact**
 
-I focus on building solutions that are not only technically sound, but also **usable, maintainable, and aligned with business operations**.
+The goal isn't simply to move data or create dashboards.
 
-## Contact
+The goal is to build **useful, reliable data solutions that become part of how people work and make decisions.**
+
+## Connect
 
 * LinkedIn: [linkedin.com/in/sunday-oyebiyi](https://www.linkedin.com/in/sunday-oyebiyi/)
-* Location: New Jersey, United States
+* New Jersey, United States
