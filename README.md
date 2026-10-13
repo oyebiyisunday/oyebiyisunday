@@ -1,42 +1,25 @@
 # Sunday Oyebiyi
+Enterprise Data Engineer — Data Analytics, Business Intelligence & Intelligent Automation
 
-Data & Solutions Engineer | Data Products | Data Engineering, Analytics & Deployment
+I build data solutions that transform enterprise and operational data into trusted information, actionable insights, and efficient business workflows. My work spans financial services, supply chain, and manufacturing, with expertise in data engineering, analytics, enterprise systems, data quality, and intelligent automation.
 
-I design and build data products and solutions that transform complex enterprise and operational data into reliable systems for reporting, analytics, and business decision-making.
-
-My work sits at the intersection of data engineering, analytics, enterprise systems, and business operations, with experience across manufacturing, supply chain, banking, and financial operations.
-
-## About Me
-
-I help organizations turn operational complexity into practical, scalable data solutions that drive reporting, analytics, and measurable business outcomes.
-
-From business requirements to engineering design, deployment, and adoption, I focus on creating maintainable systems that connect technical implementation with real business needs.
+## Professional Summary
+Enterprise Data Engineer focused on turning complex data into reliable, production-ready systems and decision-ready analytics. I design scalable data pipelines, integrate data across systems, improve data quality and governance, and deliver BI and AI-enabled workflows that drive measurable operational and business outcomes.
 
 ## What I Do
-
-- Build data products and production-ready data solutions
-- Design and develop data pipelines and analytical data models
-- Integrate ERP and operational data for reporting, analytics, and business applications
-- Improve data quality, validation, and governance
-- Develop analytics and reporting solutions that support business and operational decisions
-- Deliver solutions from concept through engineering, deployment, and adoption
+- Build end-to-end data solutions and analytics capabilities
+- Design scalable data pipelines and analytical data models
+- Integrate enterprise and operational systems (ERP, transactional, sensor data)
+- Improve data quality, validation, lineage, and governance
+- Develop business intelligence, reporting, and analytics solutions
+- Build AI-enabled applications and intelligent automation workflows
 
 ## Core Domains
-
-- Enterprise, ERP & Master Data
-- Banking & Financial Operations
+- Financial Services
 - Supply Chain & Manufacturing
-- Business & Operational Analytics
-
-## How I Work
-
-I partner closely with business and operational stakeholders to understand challenges, shape practical data solutions, and move ideas toward deployment and measurable impact.
-
-Business Problem → Data → Engineering → Product → Deployment → Impact
-
-I am particularly focused on building dependable, maintainable systems that bridge technical execution with real-world business value.
+- Enterprise Systems & Master Data
+- Data Analytics & Business Intelligence
 
 ## Connect
-
-- LinkedIn: [sunday-oyebiyi](https://www.linkedin.com/in/sunday-oyebiyi/)
-- New Jersey, United States
+- LinkedIn: https://www.linkedin.com/in/sunday-oyebiyi
+- Location: New Jersey, United States
