@@ -2,13 +2,13 @@
 
 Data & Solutions Engineer | Data Products | Data Engineering, Analytics & Deployment
 
-I build data products and data solutions that transform enterprise and operational data into reliable systems for reporting, analytics, and business decision-making.
+I design and build data products and solutions that transform complex enterprise and operational data into reliable systems for reporting, analytics, and business decision-making.
 
 My work sits at the intersection of data engineering, analytics, enterprise systems, and business operations, with experience across manufacturing, supply chain, banking, and financial operations.
 
 ## About Me
 
-I help organizations turn complex operational data into practical, scalable solutions that support reporting, analytics, and business outcomes.
+I help organizations turn operational complexity into practical, scalable data solutions that drive reporting, analytics, and measurable business outcomes.
 
 From business requirements to engineering design, deployment, and adoption, I focus on creating maintainable systems that connect technical implementation with real business needs.
 
@@ -34,9 +34,9 @@ I partner closely with business and operational stakeholders to understand chall
 
 Business Problem → Data → Engineering → Product → Deployment → Impact
 
-I am particularly focused on building dependable, maintainable solutions that bridge technical execution with real-world business value.
+I am particularly focused on building dependable, maintainable systems that bridge technical execution with real-world business value.
 
 ## Connect
 
-- LinkedIn: [linkedin.com/in/sunday-oyebiyi](https://www.linkedin.com/in/sunday-oyebiyi/)
+- LinkedIn: [sunday-oyebiyi](https://www.linkedin.com/in/sunday-oyebiyi/)
 - New Jersey, United States
