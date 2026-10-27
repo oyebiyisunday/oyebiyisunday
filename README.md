@@ -1,6 +1,6 @@
 # Sunday Oyebiyi
 
-## Analytics Engineer | Data Platforms | Governance | AI
+## Analytics Engineer | Data Platforms | Governance | AI and Automation
 
 Analytics Engineer specializing in enterprise data platforms, governed analytics, and AI-powered retrieval.
 
