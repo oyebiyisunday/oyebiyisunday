@@ -1,34 +1,40 @@
 # Sunday Oyebiyi, M.S.
 
-### Analytics Engineer | SAP Master Data | Enterprise Data Platforms | Manufacturing Quality Assurance | AI & Automation
+### Analytics Engineer | SAP Master Data & Governance | Manufacturing & Quality Systems | Supply Chain Analytics | AI & Automation
 
-Analytics Engineer specializing in enterprise data platforms, governed analytics, and AI-powered retrieval. I build trusted data products using Snowflake, Databricks, SQL, Python, dbt, and Power BI, delivering scalable analytics, data governance, and AI-enabled solutions across manufacturing and supply chain operations.
+Analytics Engineer specializing in SAP master data governance, manufacturing operations, quality assurance systems, and supply chain analytics. I develop enterprise data solutions using Snowflake, Azure Databricks, SQL, Python, dbt, and Power BI to improve master data integrity, manufacturing quality, operational visibility, and supply chain performance. I also build AI-powered retrieval applications and governed analytics solutions.
 
 ### Highlights
-- Snowflake and Azure Databricks solutions supporting 1.98 million customer records.
-- SAP master data governance for 8,000+ items across 12 manufacturing plants.
-- AI retrieval application improved from 91% to 99% answer correctness.
-- Reduced recurring planning exceptions by 15%.
+
+- Developed Snowflake and Azure Databricks solutions supporting 1.98 million customer records.
+- Governed 8,000+ SAP master data items across 12 manufacturing plants.
+- Improved AI retrieval answer correctness from 91% to 99%.
+- Reduced recurring production planning exceptions by 15%.
 
 ### Technical Skills
-`SQL` `Python` `Snowflake` `Azure Databricks` `dbt` `Power BI` `SAP MM` `PostgreSQL` `FastAPI` `Delta Lake` `RAG` `Vector Search` `TypeScript`
+
+`SAP MM` `SAP MDM` `SQL` `Python` `Snowflake` `Azure Databricks` `dbt` `Power BI` `PostgreSQL` `FastAPI` `Delta Lake` `RAG` `Vector Search` `TypeScript`
 
 ### Areas of Expertise
-- Analytics Engineering & Data Modeling
-- SAP Master Data Management
-- Manufacturing Quality Assurance Systems
-- Data Integrity & Traceability
-- Supply Chain & Operational Analytics
-- AI-Powered Applications & Automation
+
+- SAP Materials Management & Master Data Governance
+- Manufacturing Quality Assurance & Quality Systems
+- Manufacturing Data Management & Traceability
+- Supply Chain, Inventory & Production Planning
+- Analytics Engineering & Enterprise Data Platforms
+- AI-Powered Applications & Intelligent Automation
 
 ### Experience
+
 **SAP Master Data Analyst | Refresco**
 
 ### Education
+
 - **M.S. Information Technology** — Towson University, USA
 - **M.S. Logistics, Materials & Supply Chain Management** — Częstochowa University of Technology, Poland
 
 ### Connect
+
 [LinkedIn](https://www.linkedin.com/in/oyebiyisunday) | [GitHub](https://github.com/oyebiyisunday)
 
 📍 New York City Metropolitan Area, USA
