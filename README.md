@@ -1,6 +1,6 @@
 # Sunday Oyebiyi, M.S.
 
-### Data & Information Systems Professional | SAP Master Data & Governance | Manufacturing & Quality Systems | Supply Chain Analytics | AI & Automation
+### Enterprise Data & Information Systems Professional | SAP Master Data & Governance | Manufacturing & Quality Systems | Supply Chain Analytics | AI & Automation
 
 Data and Information Systems Professional specializing in SAP master data governance, manufacturing operations, quality assurance, and supply chain analytics. I develop enterprise data solutions using Snowflake, Azure Databricks, SQL, Python, dbt, and Power BI to improve data integrity, operational efficiency, and business decision-making.
 
@@ -27,7 +27,7 @@ Data and Information Systems Professional specializing in SAP master data govern
 
 ### Education
 - **M.S. Information Technology** — Towson University, USA
-- **M.S. Logistics, Materials & Supply Chain Management** — Częstochowa University of Technology, Poland
+- **Master's in Logistics Management** — Częstochowa University of Technology, Poland
 
 ### Connect
 [LinkedIn](https://www.linkedin.com/in/oyebiyisunday) | [GitHub](https://github.com/oyebiyisunday)
