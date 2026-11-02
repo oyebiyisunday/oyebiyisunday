@@ -1,41 +1,34 @@
-# Sunday Oyebiyi
+# Sunday Oyebiyi, M.S.
 
-## Analytics Engineer | Data Platforms | Governance | AI and Automation
+### Analytics Engineer | SAP Master Data | Enterprise Data Platforms | Manufacturing Quality Assurance | AI & Automation
 
-Analytics Engineer specializing in enterprise data platforms, governed analytics, and AI-powered retrieval.
-
-I build trusted data products using SQL, Python, Snowflake, Databricks, dbt, Power BI, and modern AI technologies. My experience spans manufacturing, supply chain, and financial services, delivering governed analytics, data quality solutions, business intelligence, and AI-enabled applications.
+Analytics Engineer specializing in enterprise data platforms, governed analytics, and AI-powered retrieval. I build trusted data products using Snowflake, Databricks, SQL, Python, dbt, and Power BI, delivering scalable analytics, data governance, and AI-enabled solutions across manufacturing, supply chain, and financial services.
 
 ### Highlights
-- Delivered Snowflake and Databricks solutions supporting 1.98 million customer records
-- Built AI-powered retrieval applications achieving 91% answer correctness
-- Governed SAP master data for 8,000+ items across 12 manufacturing plants
-- Reduced recurring planning exceptions by 15% through data quality and process improvements
+- Snowflake and Azure Databricks solutions supporting 1.98 million customer records.
+- SAP master data governance for 8,000+ items across 12 manufacturing plants.
+- AI retrieval application improved from 91% to 99% answer correctness.
+- Reduced recurring planning exceptions by 15%.
 
-### Core Expertise
-- Analytics Engineering
-- Data Platforms & Data Modeling
-- Business Intelligence & Reporting
-- Data Governance & Data Quality
-- AI Applications & Retrieval Systems
-- Supply Chain & Manufacturing Analytics
+### Technical Skills
+`SQL` `Python` `Snowflake` `Azure Databricks` `dbt` `Power BI` `SAP MM` `PostgreSQL` `FastAPI` `Delta Lake` `RAG` `Vector Search` `TypeScript`
 
-### Technologies
-`SQL` `Python` `Snowflake` `Databricks` `dbt` `Power BI`
-`FastAPI` `Vector Search` `RAG` `SAP MM`
-`PostgreSQL` `Delta Lake` `TypeScript`
+### Areas of Expertise
+- Analytics Engineering & Data Modeling
+- SAP Master Data Management
+- Manufacturing Quality Assurance Systems
+- Data Integrity & Traceability
+- Supply Chain & Operational Analytics
+- AI-Powered Applications & Automation
 
-### Industry Experience
-- Manufacturing
-- Supply Chain
-- Financial Services
+### Experience
+**SAP Master Data Analyst | Refresco**
 
-### Currently Focused On
-- Enterprise Analytics Platforms
-- Governed Data Products
-- AI-Powered Retrieval Applications
-- Intelligent Automation
+### Education
+- **M.S. Information Technology** — Towson University, USA
+- **M.S. Logistics, Materials & Supply Chain Management** — Częstochowa University of Technology, Poland
 
-📍 New Jersey, USA
+### Connect
+[LinkedIn](https://www.linkedin.com/in/oyebiyisunday) | [GitHub](https://github.com/oyebiyisunday)
 
-[LinkedIn](https://www.linkedin.com/in/sunday-oyebiyi)
+📍 New York City Metropolitan Area, USA
