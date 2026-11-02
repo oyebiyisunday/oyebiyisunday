@@ -2,7 +2,7 @@
 
 ### Analytics Engineer | SAP Master Data | Enterprise Data Platforms | Manufacturing Quality Assurance | AI & Automation
 
-Analytics Engineer specializing in enterprise data platforms, governed analytics, and AI-powered retrieval. I build trusted data products using Snowflake, Databricks, SQL, Python, dbt, and Power BI, delivering scalable analytics, data governance, and AI-enabled solutions across manufacturing, supply chain, and financial services.
+Analytics Engineer specializing in enterprise data platforms, governed analytics, and AI-powered retrieval. I build trusted data products using Snowflake, Databricks, SQL, Python, dbt, and Power BI, delivering scalable analytics, data governance, and AI-enabled solutions across manufacturing and supply chain operations.
 
 ### Highlights
 - Snowflake and Azure Databricks solutions supporting 1.98 million customer records.
