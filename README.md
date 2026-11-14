@@ -1,6 +1,6 @@
 # Sunday Michael Oyebiyi, M.S.
 
-### Enterprise Data & Information Systems | SAP Master Data Governance | Database Management | Supply Chain Analytics | Manufacturing Quality | Food Traceability | AI & Automation
+### Enterprise Data & Information Systems | SAP Master Data Governance | Database Management | Supply Chain Analytics | Manufacturing Quality | Network Modelling for Food Safety and supply chain traceability | AI & Automation
 
 I am an enterprise data and information systems professional with experience in SAP master data governance, manufacturing operations, quality assurance, supply chain management, and business intelligence.
 
