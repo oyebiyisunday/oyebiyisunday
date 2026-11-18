@@ -2,14 +2,14 @@
 
 ### Enterprise Data & Information Systems | SAP Master Data Governance | Database Management | Supply Chain Analytics | Manufacturing Quality | Network Modelling for Food Safety and Supply Chain Traceability | AI & Automation
 
-I am an enterprise data and information systems professional with experience in SAP master data governance, manufacturing operations, quality assurance, supply chain management, and business intelligence.
+I am an enterprise data and information systems professional with experience in SAP master data management, manufacturing operations, quality assurance, supply chain management, and business intelligence.
 
 I build data and analytics solutions using SQL, Python, PostgreSQL, Snowflake, Azure Databricks, dbt, and Power BI. My work focuses on improving data integrity, information quality, traceability, operational efficiency, and decision-making.
 
 ### Professional Highlights
 
 - Developed Snowflake and Azure Databricks solutions supporting 1.98 million customer records.
-- Governed more than 8,000 SAP master data items across 12 manufacturing plants.
+- Governed more than 8,000 SAP master data items across manufacturing plants.
 - Improved AI retrieval answer correctness from 91% to 99%.
 - Reduced recurring planning exceptions by 15%.
 
