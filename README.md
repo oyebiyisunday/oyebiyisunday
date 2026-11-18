@@ -23,7 +23,7 @@ I develop and support technology and decision-support solutions using SAP MM, SQ
 
 ## Professional and Technical Interests
 
-Enterprise Information Systems, Digital Transformation, Manufacturing and Quality Systems, Supply Chain Analytics, Food Safety and Traceability, Network Modelling, Predictive Analytics, Artificial Intelligence, and Decision Support.
+Enterprise Information Systems, Enterprise Data Management, Digital Transformation, Manufacturing and Quality Systems, Supply Chain Analytics, Food Safety and Traceability, Network Modelling, Predictive Analytics, Artificial Intelligence, and Decision Support.
 
 ## Education
 
