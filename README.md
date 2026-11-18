@@ -10,7 +10,7 @@ I build and manage data and decision-support solutions using SQL, Python, Postgr
 
 - Developed Snowflake and Azure Databricks solutions supporting 1.98 million customer records.
 - Governed 8,000+ SAP material master records across multiple manufacturing plants.
-- Improved Retrieval-Augmented Generation (RAG) answer accuracy from 91% to 99%.
+- Improved RAG answer accuracy from 91% to 99% through iterative evaluation and refinement of retrieval and response-generation workflows.
 - Contributed to a 15% reduction in recurring planning exceptions through SQL- and Power BI-driven analysis.
 - Designed and built a food traceability prototype connecting product identities, lot records, tracking events, and consumer verification.
 
