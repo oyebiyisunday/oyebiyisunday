@@ -16,7 +16,7 @@ I build and manage data and decision-support solutions using SQL, Python, Postgr
 
 ### Technical Skills
 
-- **Enterprise Systems:** SAP MM, Master Data Governance, ERP Integration, Data Governance.
+- **Enterprise Systems:** SAP MM, Master Data Management, ERP Integration, Data Governance.
 - **Databases & Data Management:** SQL, PostgreSQL, Snowflake, Database Design, Data Architecture, Data Quality.
 - **Analytics & AI:** Power BI, Predictive Analytics, Machine Learning, LLMs, RAG, Vector Search, Intelligent Automation.
 - **Software Development:** Python, TypeScript, FastAPI, C#, ASP.NET Core.
