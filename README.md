@@ -9,7 +9,7 @@ I develop and support technology and decision-support solutions using SAP MM, SQ
 ## Professional Highlights
 
 - Developed Snowflake and Azure Databricks solutions supporting 1.98 million customer records.
-- Manage more than 8,000 SAP material master records across multiple manufacturing plants.
+- Manage SAP material master records across multiple manufacturing plants.
 - Improved RAG answer accuracy from 91% to 99% through iterative evaluation and refinement.
 - Contributed to a 15% reduction in recurring planning exceptions through SQL- and Power BI-driven analysis.
 - Designed and built a food traceability prototype linking product identities, lot records, tracking events, and consumer verification.
